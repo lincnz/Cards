@@ -1,0 +1,90 @@
+body {
+	
+}
+
+.body-wrapper {
+	display: flex;
+	align-items: top;
+	padding: 2em;
+	justify-content: space-around;
+}
+
+p {
+	margin: 0;
+	margin-bottom: 0;
+	line-height: 3em;
+}
+
+.gamespace {
+	width: 42em;
+	background-color: #f0e7e6;
+	border-radius: 0.3em;
+	display: inline-flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	padding: 1em;
+}
+
+.start {
+	width: 10em;
+	background-color: #c7e8ff;
+	margin: 5em;
+	border-radius: 0.3em;
+	color: white;
+	text-align: center;
+	line-height: 2em;
+	font-size: 1.5em;
+	padding: 1em;
+}
+
+.card-f {
+	width: 7.85em;
+	height: 12em;
+	border-radius: 1em;
+	margin: 0.5em 1em;
+}
+
+.card-f .front, .card-f .back {
+	width: 7.85em;
+	height: 12em;
+	border-radius: 1em;
+}
+
+.card-f .front img, .card-f .back img {
+	width: 7.85em;
+	height: 12em;
+	border-radius: 1em;
+}
+
+.timer {
+	background-color: black;
+	display: inline-flex;
+	color: white;
+	padding: 0.1em 0.6em;
+	line-height: 3em;
+	text-align: center;
+	border-radius: 0.3em;
+	margin-left: 0.5em;
+}
+
+.ui {
+	align-items: center;
+	color: gray;
+	font-weight: 200;
+	font-size: 1.5em;
+}
+
+.restart {
+	display: none;
+	background-color: black;
+	color: white;
+	padding: 0.1em 0.6em;
+	line-height: 3em;
+	text-align: center;
+	border-radius: 0.3em;
+	margin: 1em 0 0 0.5em;
+}
+
+
+
+
