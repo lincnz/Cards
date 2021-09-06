@@ -18,7 +18,7 @@ p {
 .gamespace {
 	width: 42em;
 	background-color: #f0e7e6;
-	border-radius: 0.3em;
+	border-radius: 0.15em;
 	display: inline-flex;
 	flex-wrap: wrap;
 	justify-content: space-around;
@@ -29,7 +29,7 @@ p {
 	width: 10em;
 	background-color: #c7e8ff;
 	margin: 5em;
-	border-radius: 0.3em;
+	border-radius: 0.15em;
 	color: white;
 	text-align: center;
 	line-height: 2em;
@@ -63,7 +63,7 @@ p {
 	padding: 0.1em 0.6em;
 	line-height: 3em;
 	text-align: center;
-	border-radius: 0.3em;
+	border-radius: 0.15em;
 	margin-left: 0.5em;
 }
 
